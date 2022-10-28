@@ -8,12 +8,19 @@ We propose an orientation prediction algorithm based on Kalman-like error compen
 ![block_diagram](./figures/algorithm.png)
 
 ### Experimental results
-**Comparison of RMSE values for the Euler angles
+
+**Comparison of RMSE values for the Euler angles**
 ![results](./figures/results.PNG)
-**Comparison of the predicted Euler angles on the LOPSI test dataset
+
+
+**Comparison of the predicted Euler angles on the LOPSI test dataset**
 ![results](./figures/LOPSI.PNG)
-**Comparison of the predicted Euler angles on the FKF test dataset
+
+
+**Comparison of the predicted Euler angles on the FKF test dataset**
 ![results](./figures/FKF.PNG)
+
+
 **Comparison of the predicted Euler angles on the spiralStairs test dataset**
 ![results](./figures/spiralStairs.PNG)
 ## Citation
