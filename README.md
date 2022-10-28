@@ -1,5 +1,5 @@
 # Orientation prediction
-This repository includes the implementation for [Orientation Prediction for VR and AR Devices Using Inertial Sensors Based on Kalman-like Error Compensation] (https://ieeexplore.ieee.org/document/9931011)
+This repository includes the implementation for [Orientation Prediction for VR and AR Devices Using Inertial Sensors Based on Kalman-like Error Compensation](https://ieeexplore.ieee.org/document/9931011)
 (IEEE Access 2022).
 
 # Abstract
