@@ -1,5 +1,6 @@
 # Orientation prediction
-This repository includes the implementation for [Orientation Prediction for VR and AR Devices Using Inertial Sensors Based on Kalman-like Error Compensation](IEEE Access 2022).
+This repository includes the implementation for [Orientation Prediction for VR and AR Devices Using Inertial Sensors Based on Kalman-like Error Compensation] (https://ieeexplore.ieee.org/document/9931011)
+(IEEE Access 2022).
 
 # Abstract
 We propose an orientation prediction algorithm based on Kalman-like error compensation for virtual reality (VR) and augmented reality (AR) devices using measurements of an inertial measurement unit (IMU), which includes a tri-axial gyroscope and a tri-axial accelerometer.
