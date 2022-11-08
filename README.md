@@ -29,10 +29,13 @@ We propose an orientation prediction algorithm based on Kalman-like error compen
 If you find this repo helpful, please consider citing:
 
 ```
-@ARTICLE{9931011,  author={Dao, Le Thi Hue and Mai, Truong Thanh Nhat and Hong, Wook and Park, Sanghyun and Kim, Hokwon and Lee, Joon Goo and Kim, Min-Seok and Lee, Chul},  
-journal={IEEE Access},   
-title={Orientation Prediction for VR and AR Devices Using Inertial Sensors Based on Kalman-like Error Compensation},   year={2022},  volume={},  
-number={},  
-pages={1-1},  
-doi={10.1109/ACCESS.2022.3217555}}
+@ARTICLE{9931011,
+  author={Hue Dao, Le Thi and Mai, Truong Thanh Nhat and Hong, Wook and Park, Sanghyun and Kim, Hokwon and Lee, Joon Goo and Kim, Min-Seok and Lee, Chul},
+  journal={IEEE Access}, 
+  title={Orientation Prediction for VR and AR Devices Using Inertial Sensors Based on Kalman-Like Error Compensation}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={114306-114317},
+  doi={10.1109/ACCESS.2022.3217555}}
 ```
